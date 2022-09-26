@@ -1,0 +1,14 @@
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/netcoreapp3.1/CarLotSimulator
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/netcoreapp3.1/CarLotSimulator.deps.json
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/netcoreapp3.1/CarLotSimulator.runtimeconfig.json
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/netcoreapp3.1/CarLotSimulator.runtimeconfig.dev.json
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/netcoreapp3.1/CarLotSimulator.dll
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/bin/Debug/netcoreapp3.1/CarLotSimulator.pdb
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.csproj.AssemblyReference.cache
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.AssemblyInfoInputs.cache
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.AssemblyInfo.cs
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.csproj.CoreCompileInputs.cache
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.dll
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.pdb
+/Users/jeremijackson/Desktop/Repos/CarLotSimulator/CarLotSimulatorApp/CarLotSimulator/obj/Debug/netcoreapp3.1/CarLotSimulator.genruntimeconfig.cache
